@@ -1,5 +1,11 @@
 # go-onetimesecret
 
+# EU FORK
+
+This fork is here because the upstream version broke for users of OTS using the eu endpoint. Ideally I'd like to commit a fix upstream, but in the meantime, this is a cheap fix!
+
+# Intro
+
 go-onetimesecret is a Go client for [One-Time Secret](https://onetimesecret.com). It includes a command-line interface, [ots](https://github.com/corbaltcode/go-onetimesecret/tree/main/cmd/ots).
 
 ## Installation
