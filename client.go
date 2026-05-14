@@ -27,7 +27,7 @@ var ErrNotFound = errors.New("onetimesecret: unknown secret")
 var baseURL url.URL
 
 func init() {
-	baseURL = url.URL{Scheme: "https", Host: "us.onetimesecret.com"}
+	baseURL = url.URL{Scheme: "https", Host: "eu.onetimesecret.com"}
 }
 
 type SecretState string
