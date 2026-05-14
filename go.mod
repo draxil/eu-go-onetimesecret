@@ -1,4 +1,4 @@
-module github.com/corbaltcode/go-onetimesecret
+module github.com/draxil/eu-go-onetimesecret
 
 go 1.17
 
